@@ -1,3 +1,2 @@
 http://www.google.com
 http://wikipedia.com
-https://stackoverflow.com/questions/18549704/java-filewriter-create-a-new-line
